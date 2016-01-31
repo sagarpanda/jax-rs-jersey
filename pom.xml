@@ -50,6 +50,13 @@
             <artifactId>jersey-media-moxy</artifactId>
         </dependency>
         
+		<dependency>
+			<groupId>mysql</groupId>
+			<artifactId>mysql-connector-java</artifactId>
+			<version>5.1.38</version>
+		</dependency>
+        
+        
     </dependencies>
     <properties>
         <jersey.version>2.16</jersey.version>

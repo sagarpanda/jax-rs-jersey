@@ -8,12 +8,13 @@ RESTful web service using Jersey.
 * [Tomcat] - App Server 
 
 ### Examples
-http://localhost:8080/webapp/webapi/myresource
-http://localhost:8080/webapp/webapi/mylist
-http://localhost:8080/webapp/webapi/users [GET]
-http://localhost:8080/webapp/webapi/users/sagar [GET]
-http://localhost:8080/webapp/webapi/users/1 [PUT]
-http://localhost:8080/webapp/webapi/users [POST]
+ - http://localhost:8080/webapp/webapi/myresource
+ - http://localhost:8080/webapp/webapi/mylist
+ - http://localhost:8080/webapp/webapi/users [GET]
+ - http://localhost:8080/webapp/webapi/users/sagar [GET]
+ - http://localhost:8080/webapp/webapi/users/1 [PUT]
+ - http://localhost:8080/webapp/webapi/users [POST]
+ - http://localhost:8080/webapp/webapi/db-connect
 
 ### Installation
 
