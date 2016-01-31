@@ -19,7 +19,7 @@ RESTful web service using Jersey.
 ### Installation
 
 ```sh
-$ sudo apt-get install maven
+$ sudo apt-get install maven2
 ```
 
 ### Todos
